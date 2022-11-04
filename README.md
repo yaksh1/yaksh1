@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **ML or DS projects**
 
-- 📧 How to contact me: **yakshgandhi1@gmai.com**
+- 📧 How to contact me: **yakshgandhi1@gmail.com**
 
 - ⚡ What I like to do: **Watching movies,reading mangas and creative coding in my free time**
 
