@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yaksh<a href="https://emoji.gg/emoji/4017-jason-knife"><img src="https://cdn3.emoji.gg/emojis/4017-jason-knife.png" width="64px" height="64px" alt="Jason_knife"></a></h1>
 <h3 align="center">A DS&ML Student from India</h3>
 
-- 🏗️ I’m currently working on my **ML and DS skills**
+- 🏗️ I’m currently working on my **ML and Flutter skills**
 
-- 🌱 I’m currently learning **python,Data Analysis,sanity,java**
+- 🌱 I’m currently learning **python,Data Analysis,sanity,java,app developement**
 
 - 👯 I’m looking to collaborate on **ML or DS projects**
 
