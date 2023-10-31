@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Yaksh<a href="https://emoji.gg/emoji/4017-jason-knife"><img src="https://cdn3.emoji.gg/emojis/4017-jason-knife.png" width="64px" height="64px" alt="Jason_knife"></a></h1>
 <h3 align="center">A DS&ML Student from India</h3>
 
-- 🏗️ I’m currently working on my **ML and Flutter skills**
+- 🏗️ I’m currently working on my **Java and Flutter skills**
 
-- 🌱 I’m currently learning **python,Data Analysis,sanity,java,app developement**
+- 🌱 I’m currently learning **Data Analysis,java,app developement**
 
-- 👯 I’m looking to collaborate on **ML or DS projects**
+- 👯 I’m looking to collaborate on **App Development projects**
 
 - 📧 How to contact me: **yakshgandhi1@gmail.com**
 
-- ⚡ What I like to do: **Watching movies,reading mangas and creative coding in my free time**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
