@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **java and flutter projects**
 
-- 👨‍💻 All of my projects are available at [https://yakshgandhi-porfolio.web.app/](https://yakshgandhi-porfolio.web.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://yakshgandhi-porfolio.web.app/)
 
 - 📫 How to reach me **yakshgandhi1@gmail.com**
 
