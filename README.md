@@ -3,15 +3,13 @@
 <h3 align="center">A keen learner diving into various technologies</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
-- 🔭 I’m currently working on **Spring Boot and Flutter**
-
-- 🌱 I’m currently learning **Spring Boot, Hibernate, Maven, Bloc State Management**
+- 🔭 I’m currently working on **Spring Boot and DevOps**
 
 - 👯 I’m looking to collaborate on **java and flutter projects**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://yakshgandhi-porfolio.web.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://yaksh1.github.io/PortfolioV2/)
 
-- 📫 How to reach me **yakshgandhi1@gmail.com**
+- 📫 How to reach me **yakksh.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
